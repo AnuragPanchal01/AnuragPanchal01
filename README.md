@@ -61,7 +61,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragPanchal01&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragPanchal01&show_icons=true&theme=default)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AnuragPanchal01)
 
 ---
 
