@@ -10,6 +10,7 @@
 ### Data Analytics
 - SQL Server
 - Power BI
+- Statistics 
 - Excel
 
 ### Programming
