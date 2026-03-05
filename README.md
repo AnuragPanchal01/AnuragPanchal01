@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi 👋 I'm Anurag Panchal
 
-<!--
-**AnuragPanchal01/AnuragPanchal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student from University of Lucknow 
+📊 Targeting Data Analytics (Short Term) → Data Science (Long Term)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+
+### Data Analytics
+- SQL Server
+- Power BI
+- Excel
+
+### Programming
+- Python
+- Pandas
+- NumPy
+
+### Data Visualization
+- Matplotlib
+- Seaborn
+
+### Machine Learning
+- Scikit-learn
+- Machine Learning Algorithms
+
+### Deep Learning
+- Neural Networks
+- TensorFlow / Keras
+
+### Other Technologies
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express
+
+### Computer Science
+- Data Structures & Algorithms (C++)
+
+---
+
+## 📚 Currently Learning
+
+- MLOps
+- Advanced Machine Learning
+- Data Engineering Concepts
+
+---
+
+## 🛠 Tools
+
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+- MS SQL Server
+- Power BI
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragPanchal01&show_icons=true)
+
+---
+
+## 📫 Contact
+
+Email: anuragpanchal002@gmail.com
